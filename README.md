@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Python projects**
 
-- 🤝 I’m looking for help with **DevOps**
-
 - 💬 Ask me about **react, next, typscript and javascript**
 
 - 📫 How to reach me **mosespeter620@gmail.com**
