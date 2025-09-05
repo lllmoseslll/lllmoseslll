@@ -17,6 +17,7 @@ I'm a passionate full-stack developer with a strong foundation in mobile and web
 - 👯 Open to collaborating on impactful **Python** or **open-source** projects
 - 📫 Reach me at **mosespeter620@gmail.com**
 
+---
 
 📚 **Certifications & Achievements**
 
