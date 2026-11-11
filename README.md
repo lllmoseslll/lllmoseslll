@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1B365D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Moses+Peter;Full-Stack+Engineer;AI+Innovator+%26+Systems+Architect;React+Native+%26+Microservices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A0E0EF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Moses+Peter;Full-Stack+Engineer;AI+Innovator+%26+Systems+Architect;React+Native+%26+Microservices" alt="Typing SVG" />
 
   <p>
     <a href="https://mosespeter.com"><img src="https://img.shields.io/badge/Website-mosespeter.com-1B365D?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
